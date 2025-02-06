@@ -1,0 +1,12 @@
+:root{
+    --color-1:#eee;
+    --lorem-item:#f3f4f4;
+    --lorem-container:#dadce0;
+    --lorem-item-box:#ccdbfe;
+}
+@font-face{
+
+    font-family: "example";
+    src: url(../font/example.ttf)
+    
+}
